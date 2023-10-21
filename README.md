@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuldeep</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India looking for a frontend role in industry</h3>
 
 - 🔭 I’m currently working on **Xflix**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tomarxd?tab=repositories](https://github.com/tomarxd?tab=repositories)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **kuldeep31singhtomar@gmail.com**
 
