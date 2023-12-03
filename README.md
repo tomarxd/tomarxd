@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuldeep</h1>
 <h3 align="center">A passionate frontend developer from India looking for a frontend role in industry</h3>
 
-- 🔭 I’m currently working on **Xflix**
+- 🔭 I’m currently working on **FlixTV**
 
 - 🌱 I’m currently learning **Next.js**
 
