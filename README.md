@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FlixTV**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Express JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tomarxd?tab=repositories](https://github.com/tomarxd?tab=repositories)
 
