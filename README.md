@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Tomar</h1>
-<h3 align="center">A passionate frontend developer from India looking for a frontend role in industry</h3>
+<h3 align="center">A passionate full-stack developer from India looking for a role in industry</h3>
 
 - 🔭 I’m currently working on **Xflix**
 
