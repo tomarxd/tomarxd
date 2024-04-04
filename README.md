@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tomarxd?tab=repositories](https://github.com/tomarxd?tab=repositories)
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **Full stack development**
 
 - 📫 How to reach me **kuldeep31singhtomar@gmail.com**
 
