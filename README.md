@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Tomar</h1>
 <h3 align="center">A passionate full-stack developer from India looking for a role in industry</h3>
 
-- 🔭 I’m currently working on **Xflix**
+- 🔭 I’m currently working on **Qkart-backend**
 
 - 🌱 I’m currently learning **express.js**
 
